@@ -105,7 +105,6 @@ const BatteryMonitor: React.FC = () => {
       style={{
         display: "flex",
         flexDirection: "column",
-        height: "100vh",
         padding: "20px",
         boxSizing: "border-box",
         backgroundColor: "#f5f5f5",
